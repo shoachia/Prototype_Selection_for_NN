@@ -2,7 +2,7 @@
 ---
 ### 1. MNIST dataset download
 http://yann.lecun.com/exdb/mnist/
-### 2. Read MNIST datase as array
+### 2. Read MNIST dataset as array
 ```python=
 from mnist import MNIST
 mndata = MNIST('./mnist')
